@@ -13,6 +13,10 @@ public class Sample {
 
 		System.out.println(a / 2);
 
+		int arr[] = { 10, 30, 50 };
+
+		System.out.println(arr[2]);
+
 		List<Integer> li = new ArrayList<>();
 
 		li.add(20);
